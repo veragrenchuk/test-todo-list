@@ -1,0 +1,13 @@
+.mainContainer{
+    padding: 25px;
+    justify-self: center;
+    align-items: center;
+   
+}
+.title{
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 25px;
+    text-align: center;
+
+}

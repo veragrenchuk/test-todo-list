@@ -1,0 +1,26 @@
+.card{
+  background-color: #c8dced;
+  border-radius: 3px;
+  margin-bottom: 25px;
+  width: 100%;
+  margin-bottom: 40px;
+
+}
+.text {
+  text-decoration: line-through;
+}
+.checkbox{
+  margin-right: 15px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.editInput{
+  margin-right: 15px;
+  display: initial;
+
+}
+.doneBtn{
+  height: 56px;
+  width: 100px;
+}
